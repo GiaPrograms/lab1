@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-amy, second try, update file content
-=======
-Jasmine
->>>>>>> 8a6c32f2d9f39c040ea3e5e05b19f3a6803bb143
+hello
